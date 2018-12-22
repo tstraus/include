@@ -1,90 +1,67 @@
 ### Header Only Libraries
 
-##### action.h
+##### [action.h](https://github.com/tstraus/action)
 C# style actions in C++
-https://github.com/tstraus/action
 
-##### argh.h
+##### [argh.h](https://github.com/adishavit/argh)
 Command line arguments
-https://github.com/adishavit/argh
 
-##### byte_order.h
+##### [byte_order.h](https://gist.github.com/tstraus/a2c42c361683743d7ef6d0e22cfdefcb)
 Network and host byte order
-https://gist.github.com/tstraus/a2c42c361683743d7ef6d0e22cfdefcb
 
-##### chaiscript.hpp
+##### [chaiscript.hpp](https://github.com/ChaiScript/ChaiScript)
 Scripting language
-https://github.com/ChaiScript/ChaiScript
 
-##### channel.h
+##### [channel.h](https://github.com/tstraus/channel)
 Go style channels in C++
-https://github.com/tstraus/channel
 
-##### concurrentqueue.h
+##### [concurrentqueue.h](https://github.com/cameron314/concurrentqueue)
 High throughput thread safe queue
-https://github.com/cameron314/concurrentqueue
 
-##### cppcodec
+##### [cppcodec](https://github.com/tplgy/cppcodec)
 Base64 and Base32 encoding
-https://github.com/tplgy/cppcodec
 
-##### fft.h
+##### [fft.h](https://github.com/d1vanov/Simple-FFT)
 Fast Fourier Transforms
-https://github.com/d1vanov/Simple-FFT
 
-##### httplib.h
+##### [httplib.h](https://github.com/yhirose/cpp-httplib)
 HTTP server and client
-https://github.com/yhirose/cpp-httplib
 
-##### json.hpp
+##### [json.hpp](https://github.com/nlohmann/json)
 First class JSON
-https://github.com/nlohmann/json
 
-##### later.h
+##### [later.h](https://github.com/tstraus/later)
 Callback timer
-https://github.com/tstraus/later
 
-##### lest.hpp
+##### [lest.hpp](https://github.com/martinmoene/lest)
 Simple unit test framework
-https://github.com/martinmoene/lest
 
-##### linalg.h
+##### [linalg.h](https://github.com/sgorsten/linalg)
 Linear algebra 
-https://github.com/sgorsten/linalg
 
-##### mapbox
+##### [mapbox](https://github.com/mapbox/variant)
 Variant with match method
-https://github.com/mapbox/variant
 
-##### nod.hpp
+##### [nod.hpp](https://github.com/fr00b0/nod)
 Signals and slots
-https://github.com/fr00b0/nod
 
-##### num.h
+##### [num.h](https://gist.github.com/tstraus/ba05aa98584db8e33013b2ef8cf99f4a)
 Rust style number typedefs
-https://gist.github.com/tstraus/ba05aa98584db8e33013b2ef8cf99f4a
 
-##### rang.hpp
+##### [rang.hpp](https://github.com/agauniyal/rang)
 Console output styling
-https://github.com/agauniyal/rang
 
-##### rapidxml.hpp
+##### [rapidxml.hpp](http://rapidxml.sourceforge.net/)
 Simple XML parser
-http://rapidxml.sourceforge.net/
 
-##### sole.hpp
+##### [sole.hpp](https://github.com/r-lyeh-archived/sole)
 UUID generator
-https://github.com/r-lyeh-archived/sole
 
-##### spdlog
+##### [spdlog](https://github.com/gabime/spdlog)
 Fast logging
-https://github.com/gabime/spdlog
 
-##### threadpool.h
+##### [threadpool.h](https://github.com/progschj/ThreadPool)
 Thread pool
-https://github.com/progschj/ThreadPool
 
-##### units.h
+##### [units.h](https://github.com/nholthaus/units)
 Unit dimensional analysis
-https://github.com/nholthaus/units
-
