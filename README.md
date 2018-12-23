@@ -15,6 +15,9 @@ Scripting language
 ### [channel.h](https://github.com/tstraus/channel)
 Go style channels in C++
 
+### [CLI11.hpp](https://github.com/CLIUtils/CLI11)
+Rich command line interface
+
 ### [concurrentqueue.h](https://github.com/cameron314/concurrentqueue)
 High throughput thread safe queue
 
