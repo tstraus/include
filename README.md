@@ -66,5 +66,8 @@ Fast logging
 ### [threadpool.h](https://github.com/progschj/ThreadPool)
 Thread pool
 
+### [tiny_dnn.h](https://github.com/tiny-dnn/tiny-dnn)
+Neural networks and deep learning
+
 ### [units.h](https://github.com/nholthaus/units)
 Unit dimensional analysis
