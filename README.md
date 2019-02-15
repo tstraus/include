@@ -51,6 +51,9 @@ Signals and slots
 ### [num.h](https://gist.github.com/tstraus/ba05aa98584db8e33013b2ef8cf99f4a)
 Rust style number typedefs
 
+### [parallel_foreach.h](https://gist.github.com/tstraus/d55da5bca32d0f7f7547e10c143d495f)
+Parallel loop using threadpool.h
+
 ### [rang.hpp](https://github.com/agauniyal/rang)
 Console output styling
 
