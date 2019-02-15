@@ -5,7 +5,7 @@
 
 namespace tstraus {
     template <class Container, class Function>
-    void foreach(const Container& c, Function f, uint32_t threads = std::thread::hardware_concurrency()) //std::function<void(const T&)> f, uint32_t threads = std::thread::hardware_concurrency())
+    void foreach(const Container& c, Function f, uint32_t threads = std::thread::hardware_concurrency())
     {
         ThreadPool tp(threads);
         for (auto it = c.begin(); it != c.end(); ++it)
