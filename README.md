@@ -30,6 +30,9 @@ Fast Fourier Transforms
 ### [httplib.h](https://github.com/yhirose/cpp-httplib)
 HTTP server and client
 
+### [lazy.h](https://github.com/tstraus.lazy)
+Lavy evaluation of lambdas
+
 ### [json.hpp](https://github.com/nlohmann/json)
 First class JSON
 
